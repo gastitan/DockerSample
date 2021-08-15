@@ -1,4 +1,4 @@
-# Foobar
+# Docker Sample
 
 Demo Project is a little example of how to Dockerize your java app
 
